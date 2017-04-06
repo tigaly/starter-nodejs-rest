@@ -3,6 +3,8 @@
 Starter for a NODE.js REST Application
 =======================
 
+[![Join the chat at https://gitter.im/tigaly/starter-nodejs-rest](https://badges.gitter.im/tigaly/starter-nodejs-rest.svg)](https://gitter.im/tigaly/starter-nodejs-rest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Boilerplate using [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/) and [JSON Web Token](https://jwt.io/).
 
 ### Features:
